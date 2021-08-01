@@ -1,0 +1,1 @@
+JavaScript Asynchrounous [Link](https://www.linkedin.com/learning/javascript-async) from LinkedIn Course

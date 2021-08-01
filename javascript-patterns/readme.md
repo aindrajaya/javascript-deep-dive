@@ -1,0 +1,1 @@
+JavaScript Patterns [Link](https://www.linkedin.com/learning/javascript-patterns-2) from LinkedIn Course

@@ -1,0 +1,1 @@
+About JavaScript Functional ES6 from this [link](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus)

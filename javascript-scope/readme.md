@@ -1,0 +1,1 @@
+JavaScript Scope [Link](https://www.linkedin.com/learning/javascript-scope) from LinkedIn Course

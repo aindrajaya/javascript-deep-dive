@@ -1,0 +1,1 @@
+Course [Link](https://www.linkedin.com/learning/javascript-prototypes) from LinkedIn Course
