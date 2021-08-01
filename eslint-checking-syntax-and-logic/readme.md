@@ -1,0 +1,1 @@
+JavaScript ESLint Checking for syntax and Logic Errors [Link](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors) from LinkedIn Course

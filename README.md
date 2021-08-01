@@ -1,0 +1,1 @@
+This is the learning repository on how I finished the [LinkedIn Improve JavaScript Language Skills Learning Path](https://www.linkedin.com/learning/paths/improve-your-javascript-language-skills)
